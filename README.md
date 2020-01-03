@@ -12,7 +12,7 @@ The traditional neural network (CNN) is very popular with many topics such as im
 ## Technique Details
 * The inspired idea comes from Andrew Ng Baidu Face-recognition enabled entrance [demo](https://youtu.be/wr4rx0Spihs)
 * Problem can be solved by training a new CNN model for the only detection but recognizing technique between 2 classes (fake-real). 
-* The different of fake and real features are belong to the image data. Those fakes images can't compare (the size, space, landscape,...) with the real image.
+* The difference of fake and real features are belong to the image data. Those fakes images can't compare (the size, space, landscape,...) with the real image.
 
 <p align="center">
   <img src="read_pic/process.png" alt="processing image"/>
